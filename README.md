@@ -31,7 +31,7 @@ Modern responsive portfolio website
 ---
 
 ## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamada-cool&show_icons=true&theme=dark)
 
 ---
 
