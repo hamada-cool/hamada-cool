@@ -1,5 +1,7 @@
 # Hi, I'm Mohamed Ali 👋
 
+![](https://komarev.com/ghpvc/?username=hamada-cool&color=blue)
+
 💻 Frontend & Python Developer  
 🚀 Building real-world web applications  
 🌍 Passionate about clean UI, performance, and user experience  
