@@ -20,18 +20,23 @@
 
 ---
 
----
-
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 Modern responsive portfolio website  
+
 - Built with HTML, CSS, Bootstrap  
 - Smooth UI and animations  
-👉 *https://hamada-cool.github.io/MohDev-Portfolio/*
+
+👉 https://hamada-cool.github.io/MohDev-Portfolio/
 
 ---
 
 ## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamada-cool&show_icons=true&theme=dark)
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamada-cool&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hamada-cool&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamada-cool&layout=compact&theme=tokyonight)
 
 ---
 
