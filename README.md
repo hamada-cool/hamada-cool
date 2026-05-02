@@ -44,7 +44,7 @@ Modern responsive portfolio website
 
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/hamada-cool
-- 📧 Email: your@email.com
+- 📧 Email: mohamedali32947@gmail.com
 
 ---
 
