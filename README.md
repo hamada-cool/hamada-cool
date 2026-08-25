@@ -37,6 +37,8 @@ Modern responsive portfolio website
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamada-cool&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hamada-cool&theme=tokyonight)
