@@ -1,36 +1,36 @@
-Hi, I'm Mohamed Ali 👋
+# Hi, I'm Mohamed Ali 👋
 
-"Profile Views" (https://komarev.com/ghpvc/?username=hamada-cool&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=hamada-cool&color=blue)
 
-💻 Full Stack Developer
-🐍 Python & JavaScript Developer
-🚀 Passionate about building modern web applications
+💻 Full Stack Developer  
+🐍 Python & JavaScript Developer  
+🚀 Passionate about building modern web applications  
 🌍 Focused on clean UI, performance, and user experience
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 - 🎓 Computer Science Engineering Student
-- 🌱 Currently learning Full Stack Development
-- 💻 Working with Python, JavaScript, React, and Next.js
+- 🌱 Currently learning **Full Stack Development**
+- 💻 Working with **Python, JavaScript, React, and Next.js**
 - 💡 I love turning ideas into real, working solutions
 - 🧠 Always learning new technologies and improving my skills
-- 🎯 My goal is to become a professional Full Stack Developer
+- 🎯 My goal is to become a professional **Full Stack Developer**
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-- 💻 Languages: Python, JavaScript, HTML, CSS
-- 🎨 Frontend: React, Next.js, Bootstrap, Responsive Design
-- ⚙️ Backend: Django, Flask, FastAPI
-- 🗄️ Database: PostgreSQL, SQLite
-- 🔧 Tools: Git, GitHub, VS Code
+- 💻 Languages: **Python, JavaScript, HTML, CSS**
+- 🎨 Frontend: **React, Next.js, Bootstrap, Responsive Design**
+- ⚙️ Backend: **Django, Flask, FastAPI**
+- 🗄️ Database: **PostgreSQL, SQLite**
+- 🔧 Tools: **Git, GitHub, VS Code**
 
 ---
 
-📚 Currently Learning
+## 📚 Currently Learning
 
 - ⚛️ React & Next.js
 - ⚙️ Backend Development
@@ -41,17 +41,17 @@ Hi, I'm Mohamed Ali 👋
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-"Mohamed's GitHub stats" (https://github-readme-stats.vercel.app/api?username=hamada-cool&show_icons=true&theme=tokyonight)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamada-cool&show_icons=true&theme=tokyonight&hide_border=true)
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=hamada-cool&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=hamada-cool&theme=tokyonight&hide_border=true)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=hamada-cool&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamada-cool&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 - 💼 GitHub: https://github.com/hamada-cool
 - 📧 Email: mohamedali32947@gmail.com
@@ -59,4 +59,4 @@ Hi, I'm Mohamed Ali 👋
 
 ---
 
-⭐ "Building today for a better tomorrow"
+⭐ *"Building today for a better tomorrow"*
